@@ -1,3 +1,30 @@
 .menu{
     width: 100%;
 }
+#opcao-bolos:checked ~ #menu-bebidas,
+#opcao-bebidas:checked ~ #menu-bolos {
+    display: none;
+}
+
+
+label {
+    background-color: #563429;
+    color: white;
+    display: block;
+    font-size: 75%;
+    padding: 4em 0 1em;
+    text-transform: uppercase;
+    background-size: 4em;
+}
+body {
+    background: #3D1A11;
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+input[type=radio] {
+    display: none;
+}
+label {
+    background-color: #563429
+}
