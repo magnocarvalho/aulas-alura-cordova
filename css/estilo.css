@@ -26,5 +26,14 @@ input[type=radio] {
     display: none;
 }
 label {
-    background-color: #563429
+    background-color: #563429;
+    background-repeat: no-repeat;
+}
+label[for=opcao-bolos] {
+    background-image: url(imagens/icone-bolos.svg);
+
+}
+label[for=opcao-bebidas] {
+    background-image: url(imagens/icone-bebidas.svg);
+
 }

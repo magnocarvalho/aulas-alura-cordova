@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0" id="org.magneira.cenouraapp">
+    <name>Só de Cenoura</name>
+    <description> Menu do restaurante Só de Cenoura</description>
+    <author href="facebook.com/magnocarv" email="magnocarv@hotmail.com" >Magno Carvalho dos Santos</author>
+</widget>
